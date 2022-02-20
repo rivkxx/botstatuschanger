@@ -1,7 +1,3 @@
-# botstatuschanger
-Change the status of your discord bot every minute with this if you cannot do it manually
-
-
 # Automatic Discord Bot Status Changer
 
 Hello there! This app contains an endpoint changes your Discord bot's status.
